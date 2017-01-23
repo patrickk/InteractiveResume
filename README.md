@@ -6,4 +6,5 @@ Drafting this copy of the interactive resume helped me go over jQuery again, as 
 
 Technology used: HTML, CSS, JavaScript, jQuery
 
-TODO: Update with real picture and contact information, add background image to header, change font colors to be not so Halloweeny, update job description, add live links to projects and project pictures, link it to portfolio 
+## TODO: 
+Update with real picture, add background image to header, change font colors to be not so Halloweeny, add live links to projects and project pictures, link it to portfolio 
