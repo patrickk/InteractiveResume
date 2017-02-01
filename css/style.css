@@ -23,7 +23,12 @@ h6 {
 .project-entry,
 .online-entry {
     padding: 0 5%;
+
 }
+
+/*.education-entry a, .online-entry  a {
+  width: 32%;
+}*/
 
 h1 {
     font-size: 40px;
@@ -93,6 +98,12 @@ a {
     margin-top: 10px;
     display: block;
 }
+/*a:link{
+  color: white;
+}*/
+a:visited{
+  color: none;
+}
 
 .welcome-message {
     font-style: italic;
@@ -101,6 +112,13 @@ a {
     line-height: 28px;
 }
 
+#skills {
+  white-space: nowrap;
+  overflow:hidden;
+}
+#skills li {
+  align-content: center;
+}
 #skills-h3 {
     color: #f5ae23;
     display: none;
@@ -158,6 +176,7 @@ ul {
     list-style-type: none;
 }
 
+
 .biopic {
     float: left;
     padding: 10px;
@@ -176,7 +195,9 @@ span {
 #lets-connect {
     text-align: center;
 }
-
+.connect-link:link {
+  color: blue;
+}
 /* Media queries to handle various device widths */
 
 @media only screen and (max-width: 1024px) {

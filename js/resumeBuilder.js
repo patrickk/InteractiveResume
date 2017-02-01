@@ -10,7 +10,7 @@ var bio = {
     "location" : "Raleigh, NC"
   },
   "biopic" : "url",
-  "skills" : ["HTML", "CSS", "JavaScript", "ReactJS", "jQuery", "ExpressJS", "NodeJS", "PostgreSQL", "Bootstrap"]
+  "skills" : ["HTML", "CSS", "JavaScript", "ReactJS", "jQuery", "ExpressJS", "NodeJS", "PostgreSQL", "Bootstrap", "Responsive Design", "Web Optimization"]
 };
 
 var work = {
@@ -137,7 +137,7 @@ var education = {
     {
       "name" :"Green Hope High School",
       "degree" : "Graduate",
-      "majors" : ["Graduate"],
+      "majors" : ["None"],
       "dates" : "2011",
       "location" : "Cary, NC",
       "url" : "http://www.wcpss.net/greenhopehs"
